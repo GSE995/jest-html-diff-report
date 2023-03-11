@@ -1,0 +1,1 @@
+# jest-html-diff-report
